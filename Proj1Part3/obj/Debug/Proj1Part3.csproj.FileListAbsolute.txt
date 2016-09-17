@@ -1,0 +1,5 @@
+C:\Users\Joshua\Desktop\Proj1Part3\Proj1Part3\bin\Debug\Proj1Part3.exe.config
+C:\Users\Joshua\Desktop\Proj1Part3\Proj1Part3\bin\Debug\Proj1Part3.exe
+C:\Users\Joshua\Desktop\Proj1Part3\Proj1Part3\bin\Debug\Proj1Part3.pdb
+C:\Users\Joshua\Desktop\Proj1Part3\Proj1Part3\obj\Debug\Proj1Part3.exe
+C:\Users\Joshua\Desktop\Proj1Part3\Proj1Part3\obj\Debug\Proj1Part3.pdb
